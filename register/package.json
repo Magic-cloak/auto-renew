@@ -6,7 +6,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "express": "^4.17.1",
-    "puppeteer": "^10.4.0",
+    "puppeteer": "^19.11.1",
     "qs": "^6.10.1"
   }
 }
